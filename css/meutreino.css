@@ -54,7 +54,6 @@ body {
     max-width: 100%;
     height: auto;
     display: block;
-    border: 1px solid #ffffff;
     border-radius: 200px;
 }
 
@@ -130,7 +129,7 @@ body {
         grid-template-columns: 1fr;
     }
 
-    .foto_perfil {
+    .introducao img {
         display: none;
     }
 }
