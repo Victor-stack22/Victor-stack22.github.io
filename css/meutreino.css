@@ -54,6 +54,9 @@ body {
     max-width: 100%;
     height: auto;
     display: block;
+    border: solid #ffffff 1px;
+    -webkit-border-radius: 200px;
+    -moz-border-radius: 200px;
     border-radius: 200px;
 }
 
