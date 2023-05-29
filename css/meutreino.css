@@ -54,6 +54,8 @@ body {
     max-width: 100%;
     height: auto;
     display: block;
+    border: 1px solid #ffffff;
+    border-radius: 200px;
 }
 
 .introducao h1 {
@@ -171,9 +173,9 @@ body {
 
 .empresa__ano {
     position: absolute;
-    width: 60px;
+    width: 160px;
     text-align: right;
-    left: -80px;
+    left: -180px;
     top: 20px;
 }
 
